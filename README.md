@@ -10,7 +10,7 @@ Implementação do padrão Repository para operações CRUD, proporcionando uma 
 
 # Diagrama MER (Modelo Entidade-Relacionamento):
 
-![diagrama_EER bg-remove](https://github.com/fleming99/CRUD---Contador-de-Horas/assets/116604594/4446a0d8-bded-4ef1-8e42-168e3d7bc9e5)
+![diagrama_EER bg-remove](https://github.com/fleming99/CRUD---Contador-de-Horas/assets/116604594/5dfc1c71-b13c-4911-838a-078fcc276b4f)
 
 # Instruções de Uso:
 
